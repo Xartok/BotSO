@@ -1,0 +1,20 @@
+{
+  "name": "BotSO",
+  "version": "1.0.0",
+  "description": "Just a try",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xartok/BotSO.git"
+  },
+  "author": "Xartok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xartok/BotSO/issues"
+  },
+  "homepage": "https://github.com/Xartok/BotSO",
+  "dependencies": {}
+}
